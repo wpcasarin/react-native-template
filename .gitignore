@@ -1,2 +1,2 @@
-/template/*.lock
+#/template/*.lock
 /template/.vscode
